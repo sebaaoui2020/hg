@@ -22,7 +22,7 @@
   },
   "Config": {
     "app_version": "1.0",
-    "package_name": "com.nadal.rafa",
+    "package_name": "com.kolo.hamam",
     "rattingIsEnabled": true
   },
   "Privacy": {
