@@ -33,16 +33,20 @@
   },
   "GuideContent": [
     {
-      "title": "Article 1",
-      "description": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+      "title": "Step 1",
+      "description": "How To Get The Red GrabPack Hand In Poppy Playtime.Once the player enters the Playtime Co toy factory in Poppy Playtime they will be greeted by Huggy Wuggy who is standing stationary in the middle of the central room. There are several rooms here ." 
+
     },
     {
-      "title": "Article 2",
-      "description": "Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status."
+      "title": "Step 2",
+      "description": "but players will note that there are two doors that require a hand-scan to open. The door on the right has scanners for both the blue and red hands, but the door to the left can be opened with the blue hand alone."
+
+
     },
     {
-      "title": "Article 3",
-      "description": "All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination."
+      "title": "Step 3",
+      "description": "Attempting to open this door will short out the power, so players will have to enter the Power room to turn it back on by using the key that appears in Huggy Wuggy’s hand. Once the power is back on, the player can return to the center room and open the door, though Huggy Wuggy has now vanished."
+
     }
   ]
 }
