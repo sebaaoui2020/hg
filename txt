@@ -29,7 +29,7 @@
     "isEnabled": true,
     "title": "Privacy Policy",
     "message": "Privacy Policy Message",
-    "url": "https://termly.io/privacy-policy/"
+    "url": "https://https://sites.google.com/d/1KsBIUEgO_EEAaaSHVXIZSF2Z1m5CLvS9/p/1d2cmpzjQys7uV813Ov7OkeBjJV5j6DJJ/edit/"
   },
   "GuideContent": [
     {
