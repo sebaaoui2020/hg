@@ -39,7 +39,7 @@
     },
     {
       "title": "Step 2",
-      "description": "but players will note that there are two doors that require a hand-scan to open. The door on the right has scanners for both the blue and red hands, but the door to the left can be opened with the blue hand alone."
+      "description": "but players will note that there are two doors that require a hand-scan to open. The door on the right has scanners for both the blue and red hands but the door to the left can be opened with the blue hand alone."
 
 
     },
