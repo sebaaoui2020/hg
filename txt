@@ -1,7 +1,7 @@
 {
   "Ads": {
     "AdMob": {
-      "activated": true,
+      "activated": false,
       "banner": "ca-app-pub-7734185974696849/7513350944",
       "native": "ca-app-pub-7734185974696849/2261024260",
       "interstitial": "ca-app-pub-7734185974696849/1137135542"
@@ -13,8 +13,8 @@
       "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     "ironSource": {
-      "activated": false,
-      "app_key": "85460dcd"
+      "activated": true,
+      "app_key": "11ee4b55d"
     },
     "Yandex": {
       "interstitial": "R-M-DEMO-240x400-context"
