@@ -4,8 +4,9 @@
 			"activated": true,
 			"banner": "ca-app-pub-7734185974696849/7513350944",
 			"native": "ca-app-pub-7734185974696849/2261024260",
-			"interstitial": "ca-app-pub-7734185974696849/113713554
+			"interstitial": "ca-app-pub-7734185974696849/113713554"
 		},
+		
 		"FAN": {
 			"activated": false,
 			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
