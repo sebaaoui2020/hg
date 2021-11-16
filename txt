@@ -44,7 +44,7 @@
 
     },
     {
-      "title": "Stepp 3",
+      "title": "Step 3",
       "description": "Attempting to open this door will short out the power, so players will have to enter the Power room to turn it back on by using the key that appears in Huggy Wuggy’s hand. Once the power is back on, the player can return to the center room and open the door, though Huggy Wuggy has now vanished."
 
     }
