@@ -10,7 +10,7 @@
       "activated": false,
       "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID";
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 
 
     },
