@@ -3,13 +3,15 @@
     "AdMob": {
       "activated": true,
       "banner": "ca-app-pub-7734185974696849/7513350944",
-      "native": "ca-app-pub-7734185974696849/2261024260"
+      "native": "ca-app-pub-7734185974696849/2261024260",
 
     },
     "FAN": {
       "activated": false,
       "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+
     },
     "ironSource": {
       "activated": false,
